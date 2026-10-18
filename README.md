@@ -1,2 +1,4 @@
 # ad-astra-creating-space-compatibility-Fixed-1.21.1-unofficial-port
 An unofficial 1.21.1 port of the compatibility datapack between ad Astra and create creating space
+
+That’s an **unofficial** port of [ad astra creating space compatibility (Fixed)](https://www.curseforge.com/minecraft/data-packs/ad-astra-creating-space-compatibility) for 1.21.1 ad Astra and create creating space, thanks to **[Gameingareyou](https://www.curseforge.com/members/gameingareyou)** for the original datapack, he do the most of the work (to made it compatible the only changes needed was a change of the pack.mcmeta and a change of the name of the “recipes” folders to “recipe”).
