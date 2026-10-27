@@ -1,2 +1,2 @@
 all is public domain :
-you can do what you wanf with it without any authorisation
+you can do what you want with it without any authorisation
